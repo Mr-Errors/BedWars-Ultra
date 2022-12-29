@@ -1,1 +1,1 @@
-# TreeWars
+# BedWars-Ultra
