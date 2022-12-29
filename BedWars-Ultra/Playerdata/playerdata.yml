@@ -8,17 +8,21 @@
 PlayerData:
   Username:
   JoinData:
+  Level:
+  Exp:
+  Coins:
+  
+# This will be the player stats.
+Stats:
   Kills:
   Deaths:
   Wins:
   Losses:
   Beds:
-  Level:
-  Exp:
-  Coins:
-
+  
 # This is where the whole party system.
 Party:
+  Status:
   Leader:
   Members:
   
