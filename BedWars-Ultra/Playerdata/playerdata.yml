@@ -11,6 +11,7 @@ PlayerData:
   LastLogin:
   Level:
   Exp:
+  NextLevel:
   Coins:
   
 # This will be the player stats.
