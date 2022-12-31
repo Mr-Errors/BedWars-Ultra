@@ -9,4 +9,18 @@ Verison: 1.0
 
 
 Scoreboard:
-  Title: ""
+  Title: "&7-=-=&e&lBEDWARS&7=-=-"
+  Ip: "mc.bedwars.com"
+  lines:
+  - "<date>"
+  - ""
+  - " &f&l▶ &a&lᴘʟᴀʏᴇʀ ◀"
+  - "  &f| Level: &a%level%"
+  - "  &f| Progress: &a%progess%"
+  - "  &f| %progressbar%"
+  - ""
+  - " &f&l▶ &b&lꜱᴛᴀᴛꜱ ◀"
+  - "  &f| Kills: &b%kills%"
+  - "  &f| Wins: &b%wins%"
+  - ""
+  - "<ip>"
