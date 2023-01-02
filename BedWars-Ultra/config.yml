@@ -23,3 +23,20 @@ Scoreboard:
   - "  &f| Wins: &b<wins>"
   - ""
   - "    &bmc.bedwars.com"
+  
+Citizens:
+  Solo:
+    location:
+    Hologram:
+  Double:
+    location:
+    Hologram:
+  Trios:
+    location:
+    Hologram:
+  Quad:
+    location:
+    Hologram:
+  Groups:
+    location:
+    Hologram:
