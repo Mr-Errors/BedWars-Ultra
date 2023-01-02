@@ -9,18 +9,18 @@ PlayerData:
   Username:
   JoinDate:
   LastLogin:
-  Level:
-  Exp:
-  NextLevel:
-  Coins:
+  Level: 0
+  Exp: 0
+  NextLevel: 500
+  Coins: 0
   
 # This will be the player stats.
 Stats:
-  Kills:
-  Deaths:
-  Wins:
-  Losses:
-  Beds:
+  Kills: 0
+  Deaths: 0
+  Wins: 0
+  Losses: 0
+  Beds: 0
   
 # This is where the whole party system.
 Party:
