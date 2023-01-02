@@ -26,17 +26,22 @@ Scoreboard:
   
 Citizens:
   Solo:
+    ID:
     location:
     Hologram:
   Double:
+    ID:
     location:
     Hologram:
   Trios:
+    ID:
     location:
     Hologram:
   Quad:
+    ID:
     location:
     Hologram:
   Groups:
+    ID:
     location:
     Hologram:
