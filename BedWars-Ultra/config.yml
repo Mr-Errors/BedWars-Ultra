@@ -11,17 +11,18 @@ Verison: 1.0
 Scoreboard:
   Title: "&7-=-=&e&lBEDWARS&7=-=-"
   lines:
-  - "     <date>"
-  - ""
-  - " &f&l▶ &a&lᴘʟᴀʏᴇʀ ◀"
+  - '    <date>'
+  - ''
+  - " &a&l▶ &a&lᴘʟᴀʏᴇʀ ◀"
+  - "  &f| Coins: &a<coins>"
   - "  &f| Level: &a<level>"
-  - "  &f| Progress: &a<progess>"
+  - "  &f| Progress: &a<exp>&f/&a<nextlevel>"
   - "  &f| <progressbar>"
-  - ""
-  - " &f&l▶ &b&lꜱᴛᴀᴛꜱ ◀"
+  - ''
+  - " &b&l▶ &b&lꜱᴛᴀᴛꜱ ◀"
   - "  &f| Kills: &b<kills>"
   - "  &f| Wins: &b<wins>"
-  - ""
+  - ''
   - "    &bmc.bedwars.com"
   
 Citizens:
@@ -29,19 +30,39 @@ Citizens:
     ID:
     location:
     Hologram:
+    - "&b&lBedWars Solos!"
+    - "&7&oPlaying with 8 teams"
+    - "&fCurrently &e0 playing&f!"
+    - ''
+    - "&e&l▶ &eLeft Click to select map"
+    - "&e&l▶ &eRight Click to connect"
   Double:
     ID:
     location:
     Hologram:
+    - "&a&lBedWars Doubles!"
+    - "&7&oPlaying with 8 teams"
+    - "&fCurrently &e0 playing&f!"
+    - ''
+    - "&e&l▶ &eLeft Click to select map"
+    - "&e&l▶ &eRight Click to connect"
   Trios:
     ID:
     location:
     Hologram:
+    - "&e&lBedWars Triples!"
+    - "&7&oPlaying with 4 teams"
+    - "&fCurrently &e0 playing&f!"
+    - ''
+    - "&e&l▶ &eLeft Click to select map"
+    - "&e&l▶ &eRight Click to connect"
   Quad:
     ID:
     location:
     Hologram:
-  Groups:
-    ID:
-    location:
-    Hologram:
+    - "&c&lBedWars Quadruples!"
+    - "&7&oPlaying with 4 teams"
+    - "&fCurrently &e0 playing&f!"
+    - ''
+    - "&e&l▶ &eLeft Click to select map"
+    - "&e&l▶ &eRight Click to connect"
