@@ -6,63 +6,59 @@
 #╚═════╝░╚══════╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░░░░░░░╚═════╝░╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝
 
 Verison: 1.0
-
+Start-Exp-Requirement: 250
 
 Scoreboard:
-  Title: "&7-=-=&e&lBEDWARS&7=-=-"
-  lines:
-  - '    <date>'
-  - ''
-  - " &a&l▶ &a&lᴘʟᴀʏᴇʀ ◀"
-  - "  &f| Coins: &a<coins>"
-  - "  &f| Level: &a<level>"
-  - "  &f| Progress: &a<exp>&f/&a<nextlevel>"
-  - "  &f| <progressbar>"
-  - ''
-  - " &b&l▶ &b&lꜱᴛᴀᴛꜱ ◀"
-  - "  &f| Kills: &b<kills>"
-  - "  &f| Wins: &b<wins>"
-  - ''
-  - "    &bmc.bedwars.com"
-  
+    Title: "&7-=-=&e&lBEDWARS&7=-=-"
+    lines:
+    - '    <date>'
+    - ''
+    - " &a&l▶ &a&lᴘʟᴀʏᴇʀ ◀"
+    - "  &f| Coins: &a<coins>"
+    - "  &f| Level: &a<level>"
+    - "  &f| Progress: &a<exp>&f/&a<nextlevel>"
+    - "  &f| <progressbar>"
+    - ''
+    - " &b&l▶ &b&lꜱᴛᴀᴛꜱ ◀"
+    - "  &f| Kills: &b<kills>"
+    - "  &f| Wins: &b<wins>"
+    - ''
+    - "     &bmc.bedwars.com"
+
 Citizens:
-  Solo:
-    ID:
-    location:
-    Hologram:
-    - "&b&lBedWars Solos!"
-    - "&7&oPlaying with 8 teams"
-    - "&fCurrently &e0 playing&f!"
-    - ''
-    - "&e&l▶ &eLeft Click to select map"
-    - "&e&l▶ &eRight Click to connect"
-  Double:
-    ID:
-    location:
-    Hologram:
-    - "&a&lBedWars Doubles!"
-    - "&7&oPlaying with 8 teams"
-    - "&fCurrently &e0 playing&f!"
-    - ''
-    - "&e&l▶ &eLeft Click to select map"
-    - "&e&l▶ &eRight Click to connect"
-  Trios:
-    ID:
-    location:
-    Hologram:
-    - "&e&lBedWars Triples!"
-    - "&7&oPlaying with 4 teams"
-    - "&fCurrently &e0 playing&f!"
-    - ''
-    - "&e&l▶ &eLeft Click to select map"
-    - "&e&l▶ &eRight Click to connect"
-  Quad:
-    ID:
-    location:
-    Hologram:
-    - "&c&lBedWars Quadruples!"
-    - "&7&oPlaying with 4 teams"
-    - "&fCurrently &e0 playing&f!"
-    - ''
-    - "&e&l▶ &eLeft Click to select map"
-    - "&e&l▶ &eRight Click to connect"
+    Solo:
+        Hologram:
+            Lines:
+            - "&b&lBedWars Solos!"
+            - "&7&oPlaying with 8 teams"
+            - "&fCurrently &e0 playing&f!"
+            - ''
+            - "&e&l▶ &eLeft Click to select map"
+            - "&e&l▶ &eRight Click to connect"
+    Double:
+        Hologram:
+            Lines:
+            - "&a&lBedWars Doubles!"
+            - "&7&oPlaying with 8 teams"
+            - "&fCurrently &e0 playing&f!"
+            - ''
+            - "&e&l▶ &eLeft Click to select map"
+            - "&e&l▶ &eRight Click to connect"
+    Trio:
+        Hologram:
+            Lines:
+            - "&e&lBedWars Triples! Yooo"
+            - "&7&oPlaying with 4 teams"
+            - "&fCurrently &e0 playing&f!"
+            - ''
+            - "&e&l▶ &eLeft Click to select map"
+            - "&e&l▶ &eRight Click to connect"
+    Quad:
+        Hologram:
+            Lines:
+            - "&c&lBedWars Quadruples!"
+            - "&7&oPlaying with 4 teams"
+            - "&fCurrently &e0 playing&f!"
+            - ''
+            - "&e&l▶ &eLeft Click to select map"
+            - "&e&l▶ &eRight Click to connect"
